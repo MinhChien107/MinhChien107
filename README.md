@@ -1,7 +1,5 @@
 # Hi, I’m Dang Minh Chien!   
-<a href="https://www.facebook.com/profile.php?id=100014703970085" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Minh Chiến" height="30" width="40" />
- </a>
+ [![Mail Badge](https://img.shields.io/badge/Facebook_DangMinhChien-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100014703970085) 
 
 ### <samp>I'm Dang Minh Chien, currently I'm a Software Developper <img src="https://github.com/ouhamzalhss/ouhamzalhss/blob/main/assets/developer.gif" width="30px">, passionate about solving problems with new technology and creating different solutions.</samp><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24">
 
